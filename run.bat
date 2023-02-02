@@ -1,0 +1,2 @@
+python InternetWormDetection.py
+pause
